@@ -1,0 +1,4 @@
+{
+  "**/*.go": "// Copyright 2022 beego",
+  "**/*.{yml,toml}": "# Copyright 2022 beego"
+}
